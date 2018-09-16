@@ -12,16 +12,16 @@
     "default_popup": "popup.html",
     "default_icon": {
       "16": "images/play_button/play_button16.png",
-      "32": "images/play_button/play_button16.png",
-      "48": "images/play_button/play_button16.png",
-      "128": "images/play_button/play_button16.png"
+      "32": "images/play_button/play_button32.png",
+      "48": "images/play_button/play_button48.png",
+      "128": "images/play_button/play_button128.png"
     }
   },
   "icons": {
     "16": "images/play_button/play_button16.png",
-    "32": "images/play_button/play_button16.png",
-    "48": "images/play_button/play_button16.png",
-    "128": "images/play_button/play_button16.png"
+    "32": "images/play_button/play_button32.png",
+    "48": "images/play_button/play_button48.png",
+    "128": "images/play_button/play_button128.png"
   },
   "manifest_version": 2
 }
